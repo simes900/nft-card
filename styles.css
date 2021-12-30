@@ -125,13 +125,8 @@ span:hover
     color:  hsl(178, 100%, 50%);
     cursor: pointer;
 }
-.overlay{
-    opacity: 0;
-}
-.card-nft-image:hover, .overlay{
-    opacity: 1;
-    cursor:pointer;
-}
+
+
 
 @media (min-width: 600px){
     .card{
